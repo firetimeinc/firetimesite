@@ -1,3 +1,3 @@
 # FIRETIME.ME SITE
 
-Copyright (c) 2026 FireTime Licensed under the FSC License v1.0.
+Copyright (c) 2026 FireTime All Rights Reserved
